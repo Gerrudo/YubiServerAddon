@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "YubiServerAddon Behaviors",
+    "description": "Notification and Management of Yubi Minecraft Server",
+    "uuid": "0dd6b58a-7955-40f4-8dc4-0baa3750c857",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for YubiServerAddon",
+      "type": "client_data",
+      "uuid": "63c2eca6-2726-458c-9a67-335a6d8117ea",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "dcb6c4e8-1609-4d7b-9da6-a5c88aaf84d9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

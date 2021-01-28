@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "YubiServerAddon Resources",
+    "description": "Notification and Management of Yubi Minecraft Server",
+    "uuid": "dcb6c4e8-1609-4d7b-9da6-a5c88aaf84d9",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for YubiServerAddon",
+      "type": "resources",
+      "uuid": "48e127cc-3877-4d5d-bfca-d4e86aae87bb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
